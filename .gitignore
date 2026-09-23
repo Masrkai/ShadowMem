@@ -1,2 +1,2 @@
-.open*
-test_shadowmem
+*.o
+
